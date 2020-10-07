@@ -5,7 +5,7 @@
     "picture": "images/Silly-Wing.jpeg",
     "age": 50,
     "breed": "Piper",
-    "location": "Lisco, Alabama"
+    "location": "Alabama"
   },
   {
     "id": 1,
@@ -13,7 +13,7 @@
     "picture": "images/Glide-to-Fast.jpeg",
     "age": 30,
     "breed": "Cessna",
-    "location": "Tooleville, West Virginia"
+    "location": "West Virginia"
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
     "picture": "images/Rod.jpeg",
     "age": 20,
     "breed": "Piper",
-    "location": "Freeburn, Idaho"
+    "location": "Idaho"
   },
   {
     "id": 3,
@@ -29,7 +29,7 @@
     "picture": "images/Stealthy-Snow.jpeg",
     "age": 20,
     "breed": "Piper",
-    "location": "Camas, Pennsylvania"
+    "location": "Pennsylvania"
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "picture": "images/The Bald Falcon.jpeg",
     "age": 20,
     "breed": "Cessna",
-    "location": "Gerber, South Dakota"
+    "location": "South Dakota"
   },
   {
     "id": 5,
@@ -45,7 +45,7 @@
     "picture": "images/piper.jpeg",
     "age": 30,
     "breed": "Piper",
-    "location": "Innsbrook, Illinois"
+    "location": "Illinois"
   },
   {
     "id": 6,
@@ -53,7 +53,7 @@
     "picture": "images/Notable-Winner.jpeg",
     "age": 30,
     "breed": "Cessna",
-    "location": "Soudan, Louisiana"
+    "location": "Louisiana"
   },
   {
     "id": 7,
@@ -61,7 +61,7 @@
     "picture": "images/Magic-Money.jpeg",
     "age": 30,
     "breed": "Cessna",
-    "location": "Jacksonwald, Palau"
+    "location": "Palau"
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "picture": "images/Stall-aholic.jpeg",
     "age": 20,
     "breed": "Cessna",
-    "location": "Honolulu, Hawaii"
+    "location": "Hawaii"
   },
   {
     "id": 9,
@@ -77,7 +77,7 @@
     "picture": "images/Golard.jpeg",
     "age": 30,
     "breed": "Cessna",
-    "location": "Matheny, Utah"
+    "location": "Utah"
   },
   {
     "id": 10,
@@ -85,7 +85,7 @@
     "picture": "images/Flame.jpeg",
     "age": 20,
     "breed": "Cessna",
-    "location": "Tyhee, Indiana"
+    "location": "Indiana"
   },
   {
     "id": 11,
@@ -93,7 +93,7 @@
     "picture": "images/The-Angel.jpeg",
     "age": 30,
     "breed": "Cessna",
-    "location": "Windsor, Montana"
+    "location": "Montana"
   },
   {
     "id": 12,
@@ -101,7 +101,7 @@
     "picture": "images/Goat.jpeg",
     "age": 30,
     "breed": "Cessna",
-    "location": "Kingstowne, Nevada"
+    "location": "Nevada"
   },
   {
     "id": 13,
@@ -109,7 +109,7 @@
     "picture": "images/The=Stall.jpeg",
     "age": 40,
     "breed": "Cessna",
-    "location": "Sultana, Massachusetts"
+    "location": "Massachusetts"
   },
   {
     "id": 14,
@@ -117,7 +117,7 @@
     "picture": "images/Lifter.jpeg",
     "age": 20,
     "breed": "Cessna",
-    "location": "Broadlands, Oregon"
+    "location": "Oregon"
   },
   {
     "id": 15,
@@ -125,6 +125,6 @@
     "picture": "images/Lander.jpeg",
     "age": 20,
     "breed": "Cessna",
-    "location": "Dawn, Wisconsin"
+    "location": "Wisconsin"
   }
 ]

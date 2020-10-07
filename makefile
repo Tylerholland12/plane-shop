@@ -6,3 +6,7 @@ js-migrate:
 
 run:
 	npm run dev
+
+required-installations:
+	brew install node
+	npm install -g truffle
