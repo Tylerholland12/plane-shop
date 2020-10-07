@@ -2,11 +2,11 @@
 
 
 ## Requirements 
-1. Node
-1. NPM
-1. Truffle
+- Node
+- NPM
+- Truffle
 
-1. If you are using a MacOS use this command to install:
+- If you are using a MacOS use this command to install:
 `make required-installations`
 
 
@@ -17,13 +17,13 @@
 1. Follow the GitHub instuctions to properly sync your project with GitHub
 
 ### 1️⃣ Run & Test
-1. To run this project follow the command in `makefile`
+To run this project follow the command in `makefile`
 
-1. To run:
+- To run:
 `make run`
 
-1. To test:
+- To test:
 `make sol-test`
 
-1. To migrate:
+- To migrate:
 `make js-migrate`
